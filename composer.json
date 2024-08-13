@@ -1,0 +1,23 @@
+{
+    "name": "autotech24/woocommerce-storefront-theme",
+    "description": "Optimized Storefront theme for our projects.",
+    "type": "project",
+    "keywords": ["woocommerce", "storefront", "wordpress", "ecommerce"],
+    "homepage": "https://github.com/autotech24/Autotech-Woocommerce-Storefront-Theme",
+    "readme": "https://github.com/autotech24/Autotech-Woocommerce-Storefront-Theme/blob/master/README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Autotech24",
+            "email": "info@autotech24.cz",
+            "homepage": "https://www.autotech24.cz",
+            "role": "chief developer"
+        }
+    ],
+    "support": {
+        "email": "info@autotech24.cz",
+        "issues": "https://github.com/autotech24/Autotech-Woocommerce-Storefront-Theme/issues",
+        "wiki": "https://github.com/autotech24/Autotech-Woocommerce-Storefront-Theme/wiki"
+    },
+    "require": {}
+}
