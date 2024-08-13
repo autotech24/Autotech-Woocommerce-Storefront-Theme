@@ -81,3 +81,8 @@ This theme is currently used in the following projects:
 - [www.autotech24.be](https://www.autotech24.be)
 - [www.autotech24.dk](https://www.autotech24.dk)
 - [www.vrakovistecitroen.eu](https://www.vrakovistecitroen.eu)
+
+# Download available on
+- [Github](https://github.com/autotech24/Autotech-Woocommerce-Storefront-Theme)
+- [Gitlab](https://gitlab.com/autotech241/autotech-woocommerce-storefront-theme)
+- [Bitbucket](https://bitbucket.org/autotech24/autotech-woocommerce-storefront-theme/src/master/)
